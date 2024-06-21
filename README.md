@@ -1,1 +1,1 @@
-Create my portfolio for ALX projects using HTML CSS And JavaScript
+Create Responsive Portfolio Website for ALX projects using HTML CSS And JavaScript
